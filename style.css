@@ -1154,7 +1154,7 @@ img{
 }
 @media screen and (max-width:428px) {
     .section-Work-webdesign-IMG{
-        width: 88%;
+        width: 85%;
     }
 }
 
@@ -1175,6 +1175,8 @@ img{
     .section-Work-webdesign-img{
         width: 39vw;
         height: 52vw;
+        margin-right: 10px;
+        margin-bottom: 9px;
     }
 }
 
